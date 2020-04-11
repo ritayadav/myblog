@@ -297,7 +297,7 @@ defaults:
       comments: true
       share: true
       related: true
-      author: Billy Rick
+#     author: Billy Rick
  # _pages
   - scope:
       path: "_pages"
