@@ -5,11 +5,11 @@ main:
   - title: "Gallery"
     url: https://gallery.maheshyadav.com.np/
   - title: "Apps"
-    url: https://apps.maheshyadav.com.np/
-  - title: "About"
-    url: /about/
+    url: https://apps.maheshyadav.com.np/  
   - title: "Archive"
     url: /year-archive/
+  - title: "About"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
