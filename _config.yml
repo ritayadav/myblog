@@ -306,3 +306,5 @@ defaults:
       layout: single
       author_profile: true
 #     author: Billy Rick
+
+theme: jekyll-theme-minimal
